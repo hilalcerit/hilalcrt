@@ -1,0 +1,17 @@
+
+
+h2 {
+    color:hotpink;
+    font-size:35px;
+
+}
+h2:hover {
+        background-color: transparent;
+        color:white;
+       
+}
+
+.jumbotron  {
+   margin-left:300px;
+   margin-right:300px;
+}
